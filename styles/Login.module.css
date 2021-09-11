@@ -1,0 +1,22 @@
+.loginWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15vh;
+    /*border-radius: 10px;*/
+    /*background-color: white;*/
+}
+
+.loginTitle {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.loginForm {
+    min-width: 300px;
+}
+
+.loginFormButton {
+    width: 100%;
+}
