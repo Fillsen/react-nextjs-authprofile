@@ -41,8 +41,6 @@ as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of Reac
   запрашивать авторизацию по новой, а показывать Личный профиль.
 * Адаптивная верстка
 
-> По вопросам по заданию можно обращаться к @monkariarti, а так же сдавать ему по выполнению
-
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use
